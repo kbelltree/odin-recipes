@@ -1,16 +1,23 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
-    font-size: 14px;
-    
+    font-size: 24px;
 }
 
 h1 {
     font-family: 'brush script MT', cursive;
-    background-color: oo#F4C79B;
-    
+    color: #ef9a45;
+    font-size: 48px;
 }
 
 ul {
     list-style-type: none;
+    font-weight:bolder;
+    }
+     
+a {
+    text-decoration: none;
+    color: saddlebrown;
+    
 }
+
