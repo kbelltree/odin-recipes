@@ -39,3 +39,13 @@ While working on the project, I utilized the skills gained up to this point as f
     6. Using Visual Code Studio as text editor
 
 
+<br>
+
+**Image Credit**
+
+All images used on the project is downloaded from [Pixabay.com](https://pixabay.com/)
+
+* Baked Cheese Broccoli Photo by [Hans](https://pixabay.com/users/hans-2/)
+* Sauteed Mushrooms by [Xtendo](https://pixabay.com/users/xtendo-1194315/)
+* Garlic Tomato Pasta by [Catkin](https://pixabay.com/users/catkin-127770/)
+* Home page hat & cutlery illustration by [stux](https://pixabay.com/users/stux-12364/)
