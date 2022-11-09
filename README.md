@@ -36,7 +36,7 @@ While working on the project, I utilized the skills gained up to this point as f
         - Create paragraphs, headings, unordered/ordered lists, relative links
         - Add images with alt attribute
 
-    5. Writing Significant commit messages
+    5. Writing significant commit messages
         
     6. Using Visual Code Studio as text editor
 
