@@ -2,7 +2,9 @@
 
 ## Project Name: Recipes 
 
-On this project I built a simple recipe website that contains a home page, and three linked recipe pages with images. 
+On this project, I built a simple recipe website that contains a **home page**, and three linked **recipe pages** with images. 
+(The project details can be found [here](https://www.theodinproject.com/lessons/foundations-recipes)). 
+
 
 While working on the project, I utilized the skills gained up to this point as follows:
 
@@ -41,6 +43,12 @@ While working on the project, I utilized the skills gained up to this point as f
 
 <br>
 
+_Note:_
+After the first push of this project, I added some basic styling to the project. 
+
+<br>
+
+
 **Image Credit**
 
 All images used on the project is downloaded from [Pixabay.com](https://pixabay.com/)
@@ -49,3 +57,5 @@ All images used on the project is downloaded from [Pixabay.com](https://pixabay.
 * Sauteed Mushrooms by [Xtendo](https://pixabay.com/users/xtendo-1194315/)
 * Garlic Tomato Pasta by [Catkin](https://pixabay.com/users/catkin-127770/)
 * Home page hat & cutlery illustration by [stux](https://pixabay.com/users/stux-12364/)
+
+
