@@ -2,7 +2,7 @@
 
 ## Project Name: Recipes 
 
-On this project, I built a simple recipe website that contains a **home page**, and three linked **recipe pages** with images. 
+In this project, I built a simple recipe website that contains a **home page**, and three linked **recipe pages** with images. 
 (The project details can be found [here](https://www.theodinproject.com/lessons/foundations-recipes)). 
 
 
